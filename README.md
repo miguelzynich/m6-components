@@ -17,11 +17,6 @@ Este projeto consiste em uma calculadora simples construída em React. Ele reali
 
 ## Melhorias
 
-- Insira os números e operadores usando os botões ou o teclado.
-- Clique em "Limpar" para reiniciar o cálculo.
-- Clique em "=" para ver o resultado da operação.
-
-
 - Componentização dos botões para melhor legibilidade e manutenção.
 - Padronização do estilo e layout dos botões para consistência visual.
 - Refatoração da lógica de cálculo para segurança e precisão.
