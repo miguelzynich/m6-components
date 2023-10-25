@@ -1,8 +1,3 @@
-
-Claro, um arquivo README padrão do GitHub geralmente inclui informações importantes sobre o projeto, como uma descrição, tecnologias utilizadas, instruções de instalação e uso, bem como qualquer outra informação relevante. Aqui está um exemplo de como você pode estruturar o arquivo README.md:
-
-markdown
-Copy code
 # Calculadora React
 
 Este projeto consiste em uma calculadora simples construída em React. Ele realiza operações aritméticas básicas, como adição, subtração, multiplicação e divisão.
@@ -20,7 +15,7 @@ Este projeto consiste em uma calculadora simples construída em React. Ele reali
 3. Execute o comando `npm install` para instalar as dependências.
 4. Execute o comando `npm start` para iniciar o servidor de desenvolvimento.
 
-## Como Utilizar
+## Melhorias
 
 - Insira os números e operadores usando os botões ou o teclado.
 - Clique em "Limpar" para reiniciar o cálculo.
